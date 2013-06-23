@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/drew/.vim/bundle/nerdtree/doc'
+let g:netrw_dirhist_2='/Users/drew/Documents/projects/plone/Plone-4.2.1-UnifiedInstaller/buildout_templates'
+let g:netrw_dirhist_3='/Users/drew/Documents/projects/plone/plone_4.2.1/buildout-cache'
+let g:netrw_dirhist_4='/Users/drew/Documents/projects/plone/plone_4.2.1/remotespark/src/collective.clarifyit/src/collective/clarifyit/models'
+let g:netrw_dirhist_5='/Users/drew/Documents/projects/ruby/rails/my_library/app/views/users'
+let g:netrw_dirhist_6='/Users/drew/.vim/bundle/vim-colors-solarized'
+let g:netrw_dirhist_7='/private/etc/apache2/extra'
+let g:netrw_dirhist_8='/Users/drew/.vim'
