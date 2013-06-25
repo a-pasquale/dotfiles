@@ -1,0 +1,24 @@
+[user]
+	name = Andrew Pasquale
+	email = andrew@elytra.net
+
+[branch]
+autosetupmerge = true
+
+[push]
+default = current
+
+[core]
+excludesfile = ~/.gitignore
+
+[color]
+diff = auto
+branch = auto
+status = auto
+
+[diff]
+renames = true
+[mergetool "vimdiff3"]
+	cmd = vim -f -d -c \"wincmd J\" \"$MERGED\" \"$LOCAL\" \"$BASE\" \"$REMOTE\"
+[merge]
+	tool = vimdiff3
